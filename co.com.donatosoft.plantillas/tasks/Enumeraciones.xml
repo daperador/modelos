@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project default="Enumeraciones" name="co.com.donatosoft.plantillas">
-    <property name="ECLIPSE_HOME" value="../../../eclipse"/>
-    <property name="ECLIPSE_WORKSPACE" value="../.."/>
+    <property name="ECLIPSE_HOME" value="../../../../../../compartir/DonatoSoft/eclipse"/>
+    <property name="ECLIPSE_WORKSPACE" value="../../../../../../compartir/DonatoSoft/workspace"/>
 
     <!-- The classpath with only the dependencies used by the project -->
     <path id="co.com.donatosoft.plantillas.libraryclasspath">
